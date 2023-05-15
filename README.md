@@ -1,4 +1,4 @@
-# THIS IS DEPRECATED
+# ⚠️ THIS IS DEPRECATED
 I just needed some uuids in a browser in 2017 and then forgot about this package. People should NOT be using it.
 It has never been updated and there are better alternatives by now:
 - Browsers can now natively create v4 uuids: https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID
