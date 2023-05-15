@@ -1,3 +1,10 @@
+# THIS IS DEPRECATED
+I just needed some uuids in a browser in 2017 and then forgot about this package. People should NOT be using it.
+It has never been updated and there are better alternatives by now:
+- Browsers can now natively create v4 uuids: https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID
+- The original [uuid](https://github.com/uuidjs/uuid)-package this is copied from exports proper browser-builds since version [7.0.1](The original uuid-package this is copied from exports proper browser-builds since version 7.0.1)
+
+
 # ALL THE CODE IN THIS PACKAGE COMES FROM THE [UUID-PACKAGE](https://www.npmjs.com/package/uuid)
 Like seriously, nothing in this package is made by me
 
